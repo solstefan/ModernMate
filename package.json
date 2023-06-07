@@ -1,0 +1,15 @@
+{
+  "name": "modern-mate",
+  "version": "1.0.0",
+  "description": "Redifining the human experience",
+  "main": "app.js",
+  "dependencies": {
+    "three": "^0.153.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Stefan",
+  "license": "MIT",
+  "keywords": []
+}
