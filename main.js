@@ -2,7 +2,7 @@ import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader';
 
 const loader = new GLTFLoader();
 
-loader.load('Files/blocbot.glb', function ( gltf ) {
+loader.load('https://storage.googleapis.com/modernmate/blocbot.glb', function ( gltf ) {
 
 	scene.add( gltf.scene );
 
